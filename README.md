@@ -1,4 +1,4 @@
-# DevOps, Cloud, AI, AIOps & MLOps Workstation Tools – Installation Guide
+# AI, AIOps & MLOps Workstation Tools
 
 A complete list of tools covering Kubernetes, Cloud Platforms, GitOps, Security, Observability, Artificial Intelligence, AIOps, MLOps, Automation, and Infrastructure Engineering — with official installation URLs.
 
